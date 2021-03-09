@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  font-family: "Lucida Console";
+}
+
+button {
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 20px 40px;
+  background-color: #80339c;
+}
+
+.clicked {
+  border: none;
+  color: #80339c;
+  text-align: center;
+  padding: 20px 40px;
+  background-color: #d287ed;
+
+}
+
+.center {
+  align-content: center;
+  display: block;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+
+}
+
+.buttonlist {
+  margin-top: 50px;
+  margin-bottom: 25px;
+  float: left;
+
+}
